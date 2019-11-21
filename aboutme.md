@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Robin Srimal: Data Scientist
+
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Welcome to my portfolio site
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+My name is Robin Srimal and I am currently studying Data Science and Machine Learning at Lambda School. 
 
-What else do you need?
+This website will contain the projects I worked on during my time at Lambda. Please check them out and 
+feel free to contact me.
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
