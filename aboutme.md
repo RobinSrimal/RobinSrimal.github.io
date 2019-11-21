@@ -13,6 +13,5 @@ feel free to contact me.
 
 [Check out my blogpost about CO2-Emissions](https://medium.com/@robin.srimal/co2-emissions-west-to-east-d88c7a37eccd)
 
-In it I have a closer look at the total CO2-Emissions throughout history of the West and the East. 
-
+In it I have a closer look at the total CO2-Emissions of West and East throughout history.
 
