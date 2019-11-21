@@ -13,5 +13,4 @@ feel free to contact me.
 
 [Check out my blogpost about CO2-Emissions](https://medium.com/@robin.srimal/co2-emissions-west-to-east-d88c7a37eccd)
 
-In it I have a closer look at the total CO2-Emissions of West and East throughout history.
-
+In it I look at CO2 emissions per country over the last 250 years. I am interested in the question which countries emitted the most amount of CO2 during history and which countries emit the most nowadays. 
