@@ -4,7 +4,7 @@ title: Robin Srimal: Data Scientist
 
 ---
 
-Welcome to my portfolio site
+Welcome to my portfolio site.
 
 My name is Robin Srimal and I am currently studying Data Science and Machine Learning at Lambda School. 
 
