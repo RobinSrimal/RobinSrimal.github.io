@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Portfolio Site
+title: Robin Srimal
 
 # Short description of your site
 description: A collection of my projects
@@ -21,10 +21,7 @@ description: A collection of my projects
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -68,12 +65,12 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "robin.srimal@gmail.com"
+  #facebook: deanattali
+  github: RobinSrimal
+  #twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: robin-srimal-a41633135
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
