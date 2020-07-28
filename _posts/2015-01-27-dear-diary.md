@@ -1,6 +1,21 @@
 ---
 layout: post
-title: Dear diary
+title: Songify
+subtitle: song recommendation using machine learning
+image: /img/songify.png
 ---
 
-What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don't hear in those nursery rhymes is that she starves me if I don't go to school with her; it's the only way I can stay alive!  I'm thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).
+My first crossfunctional project with frontend developers and fellow data scientists!
+
+This is a product of an intense week and we are all very proud of it. The [website](https://songify.now.sh/) allows you to to search for your favorite song on Spotify and it will return the 6 most similar songs or - if you want to shock your musical taste buds - the least similar song. (The backend is hosted on Heroku, so it might take a few seconds to respond when accessed the first time.)
+
+I trained a knn model for the most similar song search and implemented an algorithm using Numpy for the least similar song search.
+
+The data was collected using Spotipy: an API provided by Spotify to access meta data of all their songs. 
+
+{: .box-note}
+**Note:** Check out my [Github](https://github.com/RobinSrimal/Song-Suggester) for the code.
+
+
+
+
