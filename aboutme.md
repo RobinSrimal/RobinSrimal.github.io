@@ -3,6 +3,7 @@ layout: page
 title: Robin Srimal: Data Scientist
 
 ---
+![Bw_105](/img/Bw_105.jpg)
 
 Welcome to my portfolio site.
 
