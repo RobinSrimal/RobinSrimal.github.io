@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Songify
-subtitle: song recommendation using machine learning
-image: /img/songify.png
+subtitle: Song recommendation using Machine Learning
+bigimg: /img/songify.png
 ---
 
 My first crossfunctional project with frontend developers and fellow data scientists!
@@ -14,7 +14,7 @@ I trained a knn model for the most similar song search and implemented an algori
 The data was collected using Spotipy: an API provided by Spotify to access meta data of all their songs. 
 
 {: .box-note}
-**Note:** Check out my [Github](https://github.com/RobinSrimal/Song-Suggester) for the code.
+**Check out my** [Github](https://github.com/RobinSrimal/Song-Suggester) for the code.
 
 
 

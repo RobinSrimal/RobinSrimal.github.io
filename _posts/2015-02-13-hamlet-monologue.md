@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MyDish
+image: /img/red-logo.png
 ---
 
 This was my second collaboration with a crossfunctional team and the product of two intense months. 
@@ -24,7 +25,7 @@ All that might sound a bit abstract so you can check out this [video](https://ww
 
 
 {: .box-note}
-**Check out my** [Github](https://github.com/RobinSrimal/MyDish-DS) 
+**Check out my** [Github](https://github.com/RobinSrimal/MyDish-DS) for the code.
 
 
 
