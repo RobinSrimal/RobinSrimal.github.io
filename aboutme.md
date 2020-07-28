@@ -10,7 +10,7 @@ While pursuing my PhD in philsophical anthropology I became increasingly interes
 
 Finally I decided to go all in and join the Machine Learning and Data Science track at LambdaSchool - a 9 months fully remote coding bootcamp.
 
-During this time I was lucky enough to collaborate with some outstanding developers and the fruit of these cooperations along with a few solo projects are displayed on this portfolio site.
+During this time I was lucky enough to collaborate with some outstanding developers and the fruits of these cooperations along with a few solo projects are displayed on this portfolio site.
 
 
 
