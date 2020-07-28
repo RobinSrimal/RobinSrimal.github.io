@@ -24,7 +24,7 @@ All that might sound a bit abstract so you can check out this [video](https://ww
 
 
 {: .box-note}
-**Note:** Check out my [Github](https://github.com/RobinSrimal/MyDish-DS) for the code.
+**Check out my** [Github](https://github.com/RobinSrimal/MyDish-DS) 
 
 
 
