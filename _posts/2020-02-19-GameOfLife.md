@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Game of Life
-bigimg: /img/GameOfLife.png
+image: /img/GameOfLife.png
 ---
 In this project I created the Game of Life invented by John Conway - a famous british mathematician. This [wikipedia article](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) does a great job explaining what the Game of Life is all about. 
 
