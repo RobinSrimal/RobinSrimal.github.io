@@ -3,8 +3,6 @@ layout: page
 title: Robin Srimal: Data Scientist
 
 ---
-![Bw_105](/img/Bw_105.jpg)
-
 Welcome to my portfolio site.
 
 While pursuing my PhD in philsophical anthropology I became increasingly interested in the topics of AI and Machine Learning. I started taking courses on Udemy to gain proficiency in Python and an insight into how machines "think" (or think?).
